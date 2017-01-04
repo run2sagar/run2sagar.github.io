@@ -1,0 +1,58 @@
+*{
+	margin:0px auto;
+	padding:0px;
+
+}
+.nav{
+	height: 40px;
+	width: 1360px;
+	background-color: black;	
+}
+
+a{
+	text-decoration: none;
+}
+li{
+	list-style: none;
+	float: right;
+	margin-left: 15px;
+	padding-top: 5px;	
+	padding: 20px;
+}
+.container{
+	height: 60px;
+	width: 1360px;
+	background-color: silver;
+}
+.information{
+	height: 150px;
+	width: 1360px;
+	background-color: gray;
+}
+.information p{
+	margin-left: 15px;
+	padding-top: 50px;
+	color: white;
+}
+.data{
+	padding-left: 500px;
+	padding-right: 500px;
+
+}
+
+.data1{
+	padding-right: 550px;
+}
+
+footer {
+  color:#fff;
+  margin-top: 50px;
+  position: absolute;
+  background: transparent url(../img/transparent.png) repeat;
+  width: 100%;
+  border: 1px solid #888;
+  background-color: gray;
+  opacity: .7;
+  border-radius: 5px;
+
+}
